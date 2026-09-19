@@ -88,14 +88,14 @@ icon: gear
 {% content-ref url="seen.md" %}
 [seen.md](seen.md)
 {% endcontent-ref %}
-
-
 {% endcolumn %}
 {% endcolumns %}
 
 {% columns %}
 {% column %}
-
+{% content-ref url="marikhuana-i-kosyak.md" %}
+[marikhuana-i-kosyak.md](marikhuana-i-kosyak.md)
+{% endcontent-ref %}
 {% endcolumn %}
 
 {% column %}
