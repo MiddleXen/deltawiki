@@ -12,6 +12,7 @@
     * [Кальян](deltamine/delta-vanilla/mekhaniki/kalyan.md)
     * [AFK](deltamine/delta-vanilla/mekhaniki/afk.md)
     * [Банк](deltamine/delta-vanilla/mekhaniki/bank.md)
+    * [Система штрафов](deltamine/delta-vanilla/mekhaniki/sistema-shtrafov.md)
     * [Дубинка и верёвка](deltamine/delta-vanilla/mekhaniki/dubinka-i-veryovka.md)
     * [Блоки света](deltamine/delta-vanilla/mekhaniki/bloki-sveta.md)
     * [Подпись предметов](deltamine/delta-vanilla/mekhaniki/podpis-predmetov.md)
