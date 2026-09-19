@@ -43,8 +43,8 @@ icon: gear
 {% endcolumn %}
 
 {% column %}
-{% content-ref url="seen.md" %}
-[seen.md](seen.md)
+{% content-ref url="demorgan.md" %}
+[demorgan.md](demorgan.md)
 {% endcontent-ref %}
 {% endcolumn %}
 {% endcolumns %}
@@ -85,6 +85,10 @@ icon: gear
 {% endcolumn %}
 
 {% column %}
+{% content-ref url="seen.md" %}
+[seen.md](seen.md)
+{% endcontent-ref %}
+
 
 {% endcolumn %}
 {% endcolumns %}

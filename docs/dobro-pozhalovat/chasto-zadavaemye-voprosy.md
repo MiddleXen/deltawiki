@@ -21,25 +21,9 @@ icon: circle-question
 
 <details>
 
-<summary>Как привязать Discord?</summary>
-
-При попытке зайти на ваниллу вас попросят привязать Дискорд:
-
-<figure><img src="../.gitbook/assets/Снимок экрана 2026-07-20 155132.png" alt=""><figcaption></figcaption></figure>
-
-Найдите бота для верификации <mark style="color:$primary;">**`DeltaMine#5699`**</mark> в списке участников в нашем [Дискорд](https://discord.gg/uasRKwrgGb) сервере:
-
-<figure><img src="../.gitbook/assets/Снимок экрана 2026-07-20 154847.png" alt=""><figcaption></figcaption></figure>
-
-Отправьте код в личные сообщения боту.
-
-</details>
-
-<details>
-
 <summary>Как привязать другой Discord аккаунт?</summary>
 
-На сервере напишите команду <mark style="color:$primary;">**`/discord unlink`**</mark>  и зайдите на наш [Дискорд](https://discord.gg/uasRKwrgGb) сервер с другого вашего аккаунта и привяжите дискорд по новой.
+На сервере напишите команду <mark style="color:$primary;">**`/discord unlink`**</mark> и зайдите на наш [Дискорд](https://discord.gg/uasRKwrgGb) сервер с другого вашего аккаунта и привяжите дискорд по новой.
 
 </details>
 
@@ -48,7 +32,7 @@ icon: circle-question
 <summary>Я забыл пароль что делать?</summary>
 
 Если вы забыли пароль от вашего аккаунта, напиши в поддержку в наш [Дискорд](https://discord.gg/uasRKwrgGb) сервер, в канале [поддержка](https://discord.com/channels/1415103671468949646/1508807837974003873), категория <mark style="color:$primary;">связь с администрации</mark>**.**\
-Также если вы хотите сменить пароль  <mark style="color:$primary;">**`/changepass старый_пароль новый_пароль`**</mark>&#x20;
+Также если вы хотите сменить пароль <mark style="color:$primary;">**`/changepass старый_пароль новый_пароль`**</mark>
 
 </details>
 
