@@ -22,5 +22,5 @@
     * [Выпадение голов](deltamine/delta-vanilla/mekhaniki/vypadenie-golov.md)
     * [Перемещение между мирами](deltamine/delta-vanilla/mekhaniki/peremeshenie-mezhdu-mirami.md)
     * [Seen](deltamine/delta-vanilla/mekhaniki/seen.md)
-    * [фвфывфвы](deltamine/delta-vanilla/mekhaniki/fvfyvfvy.md)
+    * [Марихуана и косяк](deltamine/delta-vanilla/mekhaniki/marikhuana-i-kosyak.md)
 * [Delta Lobby](deltamine/delta-lobby.md)
