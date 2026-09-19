@@ -31,6 +31,8 @@ icon: scale-unbalanced
 
 ## Оплата штрафа:
 
+<figure><img src="../../../.gitbook/assets/image (6).png" alt="" width="563"><figcaption><p>Оплата штрафа</p></figcaption></figure>
+
 1. Откройте меню штрафов через <mark style="color:$primary;">`/bank`</mark> ➔ **«Ваши штрафы»**.
 2. Нажмите на карточку штрафа, который хотите погасить.
 3. Выберите свой банковский счёт, с которого необходимо списать АР.
