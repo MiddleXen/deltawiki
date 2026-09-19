@@ -29,8 +29,22 @@ icon: gear
 {% endcolumn %}
 
 {% column %}
+{% content-ref url="sistema-shtrafov.md" %}
+[sistema-shtrafov.md](sistema-shtrafov.md)
+{% endcontent-ref %}
+{% endcolumn %}
+{% endcolumns %}
+
+{% columns %}
+{% column %}
 {% content-ref url="dubinka-i-veryovka.md" %}
 [dubinka-i-veryovka.md](dubinka-i-veryovka.md)
+{% endcontent-ref %}
+{% endcolumn %}
+
+{% column %}
+{% content-ref url="seen.md" %}
+[seen.md](seen.md)
 {% endcontent-ref %}
 {% endcolumn %}
 {% endcolumns %}
@@ -65,21 +79,9 @@ icon: gear
 
 {% columns %}
 {% column %}
-{% content-ref url="seen.md" %}
-[seen.md](seen.md)
-{% endcontent-ref %}
-{% endcolumn %}
-
-{% column %}
 {% content-ref url="peremeshenie-mezhdu-mirami.md" %}
 [peremeshenie-mezhdu-mirami.md](peremeshenie-mezhdu-mirami.md)
 {% endcontent-ref %}
-{% endcolumn %}
-{% endcolumns %}
-
-{% columns %}
-{% column %}
-
 {% endcolumn %}
 
 {% column %}
